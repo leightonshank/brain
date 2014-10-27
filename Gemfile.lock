@@ -1,10 +1,12 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    colored (1.2)
     rugged (0.21.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
+  colored
   rugged (~> 0.21.0)
