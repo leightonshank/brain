@@ -1,7 +1,7 @@
 brain
 =====
 
-Because my real one got too full
+Because my real one got too full.
 
 Install
 -------
